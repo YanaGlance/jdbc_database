@@ -6,4 +6,4 @@ Konfiguracja połączenia za pomocą pliku (adres serwera, port, user, password)
 
 Za pomocą JTable został przedstawiony raport prezentujący listę państw posortowaną malejąco wg przychodu.
 
-Do uruchomienia aplikacji potrzebny VirtualBox.
+Do uruchomienia BD z rozszerzeniem .ova został użyty VirtualBox.
