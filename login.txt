@@ -1,0 +1,3 @@
+jdbc:postgresql://192.168.56.2:5432/store
+postgres
+postgres
